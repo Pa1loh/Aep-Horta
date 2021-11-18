@@ -329,9 +329,8 @@ C:\Users\paulo\source\repos\Aep-Horta\bin\de\DevExpress.Xpo.v19.1.resources.dll
 C:\Users\paulo\source\repos\Aep-Horta\bin\es\DevExpress.Xpo.v19.1.resources.dll
 C:\Users\paulo\source\repos\Aep-Horta\bin\ja\DevExpress.Xpo.v19.1.resources.dll
 C:\Users\paulo\source\repos\Aep-Horta\bin\ru\DevExpress.Xpo.v19.1.resources.dll
-C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.csproj.AssemblyReference.cache
 C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.dll.licenses
 C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.csproj.CoreCompileInputs.cache
-C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.csproj.CopyComplete
 C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.dll
 C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.pdb
+C:\Users\paulo\source\repos\Aep-Horta\obj\Debug\AEP.csproj.AssemblyReference.cache

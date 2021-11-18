@@ -7,9 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace AEP
 {
-    public partial class PrincipalMasterPage : System.Web.UI.MasterPage
+    public partial class WebForm2 : System.Web.UI.Page
     {
-        protected void Button1_Click(object sender, EventArgs e)
+        protected void Page_Load(object sender, EventArgs e)
         {
 
         }
